@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-26T21:55:50Z" name="Default suite" finished-at="2020-06-26T21:55:55Z" duration-ms="5413">
+    <groups>
+    </groups>
+    <test started-at="2020-06-26T21:55:50Z" name="Default test" finished-at="2020-06-26T21:55:55Z" duration-ms="5413">
+      <class name="getChimeTest.GetJokeFactory">
+        <test-method signature="testJokeMultiple()[pri:0, instance:getChimeTest.GetJokeFactory@7a8c8dcf]" started-at="2020-06-26T21:55:50Z" name="testJokeMultiple" finished-at="2020-06-26T21:55:55Z" duration-ms="4963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJokeMultiple -->
+        <test-method signature="testJokeRandom()[pri:0, instance:getChimeTest.GetJokeFactory@7a8c8dcf]" started-at="2020-06-26T21:55:55Z" name="testJokeRandom" finished-at="2020-06-26T21:55:55Z" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJokeRandom -->
+      </class> <!-- getChimeTest.GetJokeFactory -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
